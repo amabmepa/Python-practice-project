@@ -1,0 +1,7 @@
+{
+    "coord": {"lon": 51.39, "lat": 35.69},
+    "weather": [{"id":800,"main":"Clear","description":"صاف","icon":"01d"}],
+    "main": {"temp":28,"feels_like":30,"humidity":45,"pressure":1012},
+    "name":"Tehran",
+    "cod":200
+}
